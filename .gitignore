@@ -1,5 +1,6 @@
 /text8
 /model
+/model_v2
 /text8_ft.bin
 /text8_ft.vec
 *.png
